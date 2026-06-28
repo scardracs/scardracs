@@ -119,5 +119,5 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 ### 🎨 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/scardracs/scardracs/output/github-contribution-grid-snake.gif" alt="github contribution grid snake" />
+  <img src="https://raw.githubusercontent.com/scardracs/scardracs/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake" />
 </p>
