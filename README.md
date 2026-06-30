@@ -92,10 +92,10 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=scardracs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="495" height="195" />
+        <img src="https://raw.githubusercontent.com/scardracs/scardracs/output/github-stats.svg" alt="GitHub Stats" width="495" height="195" />
       </td>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scardracs&theme=tokyonight&hide_border=true" alt="Top Languages" width="344" height="195" />
+        <img src="https://raw.githubusercontent.com/scardracs/scardracs/output/github-top-langs.svg" alt="Top Languages" width="344" height="195" />
       </td>
     </tr>
   </table>

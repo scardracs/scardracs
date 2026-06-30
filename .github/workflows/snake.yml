@@ -25,6 +25,13 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?palette=github-dark
           
+      - name: Generate GitHub Stats Cards
+        run: |
+          sudo mkdir -p dist
+          sudo chown -R $USER:$USER dist
+          curl -f -s -S -o dist/github-stats.svg "https://github-stats-extended.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true"
+          curl -f -s -S -o dist/github-top-langs.svg "https://github-stats-extended.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&theme=tokyonight&hide_border=true"
+
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
