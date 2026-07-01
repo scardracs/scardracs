@@ -62,16 +62,16 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
        -*+++=====+***++==========:                        Kernel: Latest-one-cachyos-eevdf
       =*++++========------------:                         Uptime: Since 2010
      =*+++++=====-                     ...                Packages: A lot (pacman)
-   .+*+++++=-===:                    .=+++=:              Shell: fish 4.7.1
-  :++++=====-==:                     -*****+              Display (B160UAN07.K ): 1920x1200 @ 1.25x in 16", 165 Hz [Built-in]
- :++========-=.                      .=+**+.              DE: KDE Plasma 6.7.1
+   .+*+++++=-===:                    .=+++=:              Shell: fish
+  :++++=====-==:                     -*****+              Display (B160UAN07.K): 1920x1200 @ 1.25x in 16", 165 Hz [Built-in]
+ :++========-=.                      .=+**+.              DE: KDE Plasma
 .+==========-.                          .                 WM: KWin (Wayland)
  :+++++++====-                                .--==-.     WM Theme: Breeze
   :++==========.                             :+++++++:    Theme: Breeze (Dark) [Qt], Breeze-Dark [GTK2], Breeze [GTK3]
    .-===========.                            =*****+*+    Icons: breeze-dark [Qt], breeze-dark [GTK2/3/4]
     .-===========:                           .+*****+:    Font: Noto Sans (10pt) [Qt], Noto Sans (10pt) [GTK2/3/4]
       -=======++++:::::::::::::::::::::::::-:  .---:      Cursor: breeze (24px)
-       :======++++====+++******************=.             Terminal: kitty 0.47.1
+       :======++++====+++******************=.             Terminal: kitty
         :=====+++==========++++++++++++++*-               Terminal Font: JetBrainsMonoNF-Regular (11pt)
          .====++==============++++++++++*-                CPU: AMD Ryzen 9 8940HX (32) @ 5.39 GHz
           .===+==================+++++++:                 GPU 1: AMD Radeon 610M [Integrated]
