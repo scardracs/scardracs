@@ -29,6 +29,7 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 #### 💻 Hardware & System Tooling
 * **[asusctl](https://github.com/OpenGamingCollective/asusctl)** — Contributor to the system daemon and tools for controlling ASUS ROG laptop features on Linux.
 * **[throttlegear](https://github.com/scardracs/throttlegear)** — Creator of the utility to decrypt and encrypt ASUS ThrottleGear XML configurations.
+* **[linux](https://lore.kernel.org/all/?q=scardracs@disroot.org)** — Linux kernel contributions/comments.
 
 #### 🌀 CachyOS & Arch
 * Active user and supporter of CachyOS, leveraging aggressive compiler optimizations (x86-64-{v3,v4} and znver4).
