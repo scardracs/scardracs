@@ -59,7 +59,7 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
           .+=========================.                    ----------------
          :++===++==================-       :++-           OS: CachyOS x86_64
         :*++====+++++=============-        .==:           Host: ROG Strix G16 G614PR_G614PR (1.0)
-       -*+++=====+***++==========:                        Kernel: Linux 7.1.1-1-cachyos-eevdf
+       -*+++=====+***++==========:                        Kernel: Latest-one-cachyos-eevdf
       =*++++========------------:                         Uptime: Since 2010
      =*+++++=====-                     ...                Packages: A lot (pacman)
    .+*+++++=-===:                    .=+++=:              Shell: fish 4.7.1
