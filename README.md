@@ -113,11 +113,11 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#147](https://github.com/OpenGamingCollective/asusctl/pull/147#issuecomment-4862224502) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-2. 🗣 Commented on [#147](https://github.com/OpenGamingCollective/asusctl/pull/147#issuecomment-4859952378) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-3. 🗣 Commented on [#147](https://github.com/OpenGamingCollective/asusctl/pull/147#issuecomment-4859089461) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-4. 🗣 Commented on [#147](https://github.com/OpenGamingCollective/asusctl/pull/147#issuecomment-4857870649) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-5. 🗣 Commented on [#147](https://github.com/OpenGamingCollective/asusctl/pull/147#issuecomment-4857731284) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+1. 🗣 Commented on [#152](https://github.com/OpenGamingCollective/asusctl/issues/152#issuecomment-4881367555) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+2. 🗣 Commented on [#94](https://github.com/OpenGamingCollective/asusctl/issues/94#issuecomment-4876757026) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+3. 🗣 Commented on [#151](https://github.com/OpenGamingCollective/asusctl/issues/151#issuecomment-4876739378) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+4. 🗣 Commented on [#147](https://github.com/OpenGamingCollective/asusctl/pull/147#issuecomment-4862224502) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+5. 🗣 Commented on [#147](https://github.com/OpenGamingCollective/asusctl/pull/147#issuecomment-4859952378) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
 <!--END_SECTION:activity-->
 
 ---
