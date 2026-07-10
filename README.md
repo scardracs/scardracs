@@ -52,41 +52,6 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ---
 
-### 🖥️ `$ fastfetch --user scardracs`
-
-```ini
-           .-------------------------:                    scardracs@G614PR
-          .+=========================.                    ----------------
-         :++===++==================-       :++-           OS: CachyOS x86_64
-        :*++====+++++=============-        .==:           Host: ROG Strix G16 G614PR_G614PR (1.0)
-       -*+++=====+***++==========:                        Kernel: Latest-one-cachyos-eevdf
-      =*++++========------------:                         Uptime: Since 2010
-     =*+++++=====-                     ...                Packages: A lot (pacman)
-   .+*+++++=-===:                    .=+++=:              Shell: fish
-  :++++=====-==:                     -*****+              Display (B160UAN07.K): 1920x1200 @ 1.25x in 16", 165 Hz [Built-in]
- :++========-=.                      .=+**+.              DE: KDE Plasma
-.+==========-.                          .                 WM: KWin (Wayland)
- :+++++++====-                                .--==-.     WM Theme: Breeze
-  :++==========.                             :+++++++:    Theme: Breeze (Dark) [Qt], Breeze-Dark [GTK2], Breeze [GTK3]
-   .-===========.                            =*****+*+    Icons: breeze-dark [Qt], breeze-dark [GTK2/3/4]
-    .-===========:                           .+*****+:    Font: Noto Sans (10pt) [Qt], Noto Sans (10pt) [GTK2/3/4]
-      -=======++++:::::::::::::::::::::::::-:  .---:      Cursor: breeze (24px)
-       :======++++====+++******************=.             Terminal: kitty
-        :=====+++==========++++++++++++++*-               Terminal Font: JetBrainsMonoNF-Regular (11pt)
-         .====++==============++++++++++*-                CPU: AMD Ryzen 9 8940HX (32) @ 5.39 GHz
-          .===+==================+++++++:                 GPU 1: AMD Radeon 610M [Integrated]
-           .-=======================+++:                  GPU 2: NVIDIA GeForce RTX 5070 Ti Mobile [Discrete]
-             ..........................                   Memory: 6.09 GiB / 30.55 GiB (20%)
-                                                          Swap: 5.33 MiB / 30.54 GiB (0%)
-                                                          Disk (/): 33.34 GiB / 951.40 GiB (4%) - xfs
-                                                          Disk (/home): 295.84 GiB / 3.64 TiB (8%) - xfs
-                                                          Local IP (wlan0): Home sweet home
-                                                          Battery (R220358): 100% [AC Connected]
-                                                          Locale: it_IT.UTF-8
-```
-
----
-
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
@@ -119,11 +84,3 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 4. 🚀 Published release [ThrottleGear-0.2.5](https://github.com/scardracs/throttlegear/releases/tag/0.2.5) in [scardracs/throttlegear](https://github.com/scardracs/throttlegear)
 5. 🗣 Commented on [#147](https://github.com/OpenGamingCollective/asusctl/pull/147#issuecomment-4901702484) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
 <!--END_SECTION:activity-->
-
----
-
-### 🎨 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/scardracs/scardracs/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake" />
-</p>
