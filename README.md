@@ -79,9 +79,9 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#155](https://github.com/OpenGamingCollective/asusctl/pull/155#issuecomment-4933310866) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-2. 💪 Opened PR [#158](https://github.com/OpenGamingCollective/asusctl/pull/158) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-3. 🗣 Commented on [#115](https://github.com/OpenGamingCollective/asusctl/issues/115#issuecomment-4916871033) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-4. 🗣 Commented on [#142](https://github.com/OpenGamingCollective/asusctl/pull/142#issuecomment-4912237127) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-5. 🚀 Published release [ThrottleGear-0.2.5](https://github.com/scardracs/throttlegear/releases/tag/0.2.5) in [scardracs/throttlegear](https://github.com/scardracs/throttlegear)
+1. 🗣 Commented on [#100](https://github.com/OpenGamingCollective/asusctl/issues/100#issuecomment-4942904362) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+2. 🗣 Commented on [#159](https://github.com/OpenGamingCollective/asusctl/issues/159#issuecomment-4942849345) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+3. 🗣 Commented on [#155](https://github.com/OpenGamingCollective/asusctl/pull/155#issuecomment-4933310866) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+4. 💪 Opened PR [#158](https://github.com/OpenGamingCollective/asusctl/pull/158) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+5. 🗣 Commented on [#115](https://github.com/OpenGamingCollective/asusctl/issues/115#issuecomment-4916871033) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
 <!--END_SECTION:activity-->
