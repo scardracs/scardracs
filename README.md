@@ -72,7 +72,7 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 💬 Random Developer Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming Quote" width="839" height="245" />
 </p>
 
 ---
