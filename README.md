@@ -79,4 +79,9 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#134](https://github.com/OpenGamingCollective/asusctl/issues/134#issuecomment-5129301817) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+2. 🗣 Commented on [#155](https://github.com/OpenGamingCollective/asusctl/pull/155#issuecomment-5129011909) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+3. 🗣 Commented on [#230](https://github.com/OpenGamingCollective/asusctl/pull/230#issuecomment-5123536334) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+4. ❌ Closed PR [#4](https://github.com/NeroReflex/linux/pull/4) in [NeroReflex/linux](https://github.com/NeroReflex/linux)
+5. 💪 Opened PR [#241](https://github.com/OpenGamingCollective/asusctl/pull/241) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
 <!--END_SECTION:activity-->
