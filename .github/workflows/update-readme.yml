@@ -22,4 +22,18 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "chore: update github activity in readme [skip ci]"
-          MAX_LIMIT: 5
+          MAX_LINES: 5
+
+      - name: Generate GitHub Stats Cards
+        run: |
+          mkdir -p dist
+          curl -f -s -S -o dist/github-stats.svg "https://github-stats-extended.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+          curl -f -s -S -o dist/github-top-langs.svg "https://github-stats-extended.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&theme=tokyonight&hide_border=true"
+
+      - name: Push GitHub Stats to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
