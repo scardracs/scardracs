@@ -14,7 +14,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       
       - name: Update GitHub Activity
         uses: jamesgeorge007/github-activity-readme@master
@@ -31,7 +31,7 @@ jobs:
           curl -f -s -S -o dist/github-top-langs.svg "https://github-stats-extended.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&theme=tokyonight&hide_border=true"
 
       - name: Push GitHub Stats to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
