@@ -22,6 +22,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "chore: update github activity in readme [skip ci]"
+          COMMIT_NAME: "Marco Scardovi"
+          COMMIT_EMAIL: "scardracs@disroot.org"
           MAX_LINES: 5
 
       - name: Generate GitHub Stats Cards
