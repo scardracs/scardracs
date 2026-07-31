@@ -29,7 +29,7 @@ jobs:
       - name: Generate GitHub Stats Cards
         run: |
           mkdir -p dist
-          curl -f -s -S -o dist/github-stats.svg "https://github-stats-extended.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&show=reviews,prs_merged"
+          curl -f -s -S -o dist/github-stats.svg "https://github-stats-extended.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,prs_merged"
           curl -f -s -S -o dist/github-top-langs.svg "https://github-stats-extended.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&langs_count=8"
 
       - name: Push GitHub Stats to output branch
