@@ -79,9 +79,9 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119](https://github.com/OpenGamingCollective/asusctl/issues/119#issuecomment-5197903699) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-2. 🗣 Commented on [#267](https://github.com/OpenGamingCollective/asusctl/issues/267#issuecomment-5191925797) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-3. 🗣 Commented on [#267](https://github.com/OpenGamingCollective/asusctl/issues/267#issuecomment-5191914875) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-4. 🗣 Commented on [#270](https://github.com/OpenGamingCollective/asusctl/pull/270#issuecomment-5187716112) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-5. 💪 Opened PR [#270](https://github.com/OpenGamingCollective/asusctl/pull/270) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+1. 🎉 Merged PR [#270](https://github.com/OpenGamingCollective/asusctl/pull/270) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+2. 🎉 Merged PR [#261](https://github.com/OpenGamingCollective/asusctl/pull/261) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+3. 🗣 Commented on [#119](https://github.com/OpenGamingCollective/asusctl/issues/119#issuecomment-5197903699) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+4. 🗣 Commented on [#267](https://github.com/OpenGamingCollective/asusctl/issues/267#issuecomment-5191925797) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+5. 🗣 Commented on [#267](https://github.com/OpenGamingCollective/asusctl/issues/267#issuecomment-5191914875) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
 <!--END_SECTION:activity-->
