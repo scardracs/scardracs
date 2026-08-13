@@ -78,9 +78,9 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#284](https://github.com/OpenGamingCollective/asusctl/issues/284#issuecomment-5249953428) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-2. 🗣 Commented on [#124](https://github.com/OpenGamingCollective/asusctl/issues/124#issuecomment-5237890886) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-3. 🗣 Commented on [#124](https://github.com/OpenGamingCollective/asusctl/issues/124#issuecomment-5236376623) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-4. 💪 Opened PR [#278](https://github.com/OpenGamingCollective/asusctl/pull/278) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-5. 🗣 Commented on [#92](https://github.com/OpenGamingCollective/asusctl/issues/92#issuecomment-5221064313) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+1. 🗣 Commented on [#286](https://github.com/OpenGamingCollective/asusctl/issues/286#issuecomment-5272621758) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+2. 🗣 Commented on [#238](https://github.com/OpenGamingCollective/asusctl/pull/238#issuecomment-5271618959) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+3. ❌ Closed PR [#238](https://github.com/OpenGamingCollective/asusctl/pull/238) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+4. 🗣 Commented on [#289](https://github.com/OpenGamingCollective/asusctl/pull/289#issuecomment-5271595765) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+5. 🗣 Commented on [#288](https://github.com/OpenGamingCollective/asusctl/issues/288#issuecomment-5271385893) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
 <!--END_SECTION:activity-->
