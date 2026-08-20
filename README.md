@@ -78,9 +78,9 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124](https://github.com/OpenGamingCollective/asusctl/issues/124#issuecomment-5334334466) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-2. 🗣 Commented on [#264](https://github.com/OpenGamingCollective/asusctl/issues/264#issuecomment-5330810251) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-3. 🗣 Commented on [#314](https://github.com/OpenGamingCollective/asusctl/pull/314#issuecomment-5330260010) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-4. 🗣 Commented on [#317](https://github.com/OpenGamingCollective/asusctl/pull/317#issuecomment-5330161541) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-5. 💪 Opened PR [#317](https://github.com/OpenGamingCollective/asusctl/pull/317) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+1. 🗣 Commented on [#111](https://github.com/OpenGamingCollective/asusctl/pull/111#issuecomment-5344264074) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+2. 🗣 Commented on [#319](https://github.com/OpenGamingCollective/asusctl/issues/319#issuecomment-5344246840) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+3. 🗣 Commented on [#322](https://github.com/OpenGamingCollective/asusctl/issues/322#issuecomment-5341717158) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+4. 🗣 Commented on [#322](https://github.com/OpenGamingCollective/asusctl/issues/322#issuecomment-5341614854) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+5. 🗣 Commented on [#322](https://github.com/OpenGamingCollective/asusctl/issues/322#issuecomment-5341518535) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
 <!--END_SECTION:activity-->
