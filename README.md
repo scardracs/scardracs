@@ -78,9 +78,9 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/OpenGamingCollective/linux-unstable/pull/17) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
-2. ❌ Closed PR [#16](https://github.com/OpenGamingCollective/linux-unstable/pull/16) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
-3. 💪 Opened PR [#16](https://github.com/OpenGamingCollective/linux-unstable/pull/16) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
-4. 🗣 Commented on [#12](https://github.com/OpenGamingCollective/linux-unstable/pull/12#issuecomment-5521668316) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
-5. 🗣 Commented on [#12](https://github.com/OpenGamingCollective/linux-unstable/pull/12#issuecomment-5490558942) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
+1. 🗣 Commented on [#17](https://github.com/OpenGamingCollective/linux-unstable/pull/17#issuecomment-5554642517) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
+2. 💪 Opened PR [#17](https://github.com/OpenGamingCollective/linux-unstable/pull/17) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
+3. ❌ Closed PR [#16](https://github.com/OpenGamingCollective/linux-unstable/pull/16) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
+4. 💪 Opened PR [#16](https://github.com/OpenGamingCollective/linux-unstable/pull/16) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
+5. 🗣 Commented on [#12](https://github.com/OpenGamingCollective/linux-unstable/pull/12#issuecomment-5521668316) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
 <!--END_SECTION:activity-->
