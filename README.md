@@ -78,9 +78,9 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124](https://github.com/OpenGamingCollective/asusctl/issues/124#issuecomment-5660253414) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-2. 🗣 Commented on [#378](https://github.com/OpenGamingCollective/asusctl/issues/378#issuecomment-5646114922) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-3. 🗣 Commented on [#232](https://github.com/OpenGamingCollective/asusctl/issues/232#issuecomment-5595668584) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-4. 💪 Opened PR [#369](https://github.com/OpenGamingCollective/asusctl/pull/369) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-5. 🗣 Commented on [#17](https://github.com/OpenGamingCollective/linux-unstable/pull/17#issuecomment-5589955768) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
+1. 🎉 Merged PR [#12](https://github.com/OpenGamingCollective/linux-unstable/pull/12) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
+2. 🗣 Commented on [#124](https://github.com/OpenGamingCollective/asusctl/issues/124#issuecomment-5660253414) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+3. 🗣 Commented on [#378](https://github.com/OpenGamingCollective/asusctl/issues/378#issuecomment-5646114922) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+4. 🗣 Commented on [#232](https://github.com/OpenGamingCollective/asusctl/issues/232#issuecomment-5595668584) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+5. 💪 Opened PR [#369](https://github.com/OpenGamingCollective/asusctl/pull/369) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
 <!--END_SECTION:activity-->
