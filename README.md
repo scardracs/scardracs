@@ -78,9 +78,9 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124](https://github.com/OpenGamingCollective/asusctl/issues/124#issuecomment-5739688367) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-2. 🗣 Commented on [#124](https://github.com/OpenGamingCollective/asusctl/issues/124#issuecomment-5739448076) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-3. 🗣 Commented on [#355](https://github.com/OpenGamingCollective/asusctl/issues/355#issuecomment-5739437412) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-4. 🗣 Commented on [#379](https://github.com/OpenGamingCollective/asusctl/issues/379#issuecomment-5739296455) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-5. 💪 Opened PR [#384](https://github.com/OpenGamingCollective/asusctl/pull/384) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+1. 🗣 Commented on [#124](https://github.com/OpenGamingCollective/asusctl/issues/124#issuecomment-5752612928) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+2. 🗣 Commented on [#384](https://github.com/OpenGamingCollective/asusctl/pull/384#issuecomment-5748524682) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+3. 🗣 Commented on [#124](https://github.com/OpenGamingCollective/asusctl/issues/124#issuecomment-5739688367) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+4. 🗣 Commented on [#124](https://github.com/OpenGamingCollective/asusctl/issues/124#issuecomment-5739448076) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+5. 🗣 Commented on [#355](https://github.com/OpenGamingCollective/asusctl/issues/355#issuecomment-5739437412) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
 <!--END_SECTION:activity-->
