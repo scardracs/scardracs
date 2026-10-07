@@ -78,9 +78,9 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Reopened PR [#17](https://github.com/OpenGamingCollective/linux-unstable/pull/17) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
-2. ❌ Closed PR [#17](https://github.com/OpenGamingCollective/linux-unstable/pull/17) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
-3. 🗣 Commented on [#17](https://github.com/OpenGamingCollective/linux-unstable/pull/17#issuecomment-5988647955) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
-4. 🗣 Commented on [#384](https://github.com/OpenGamingCollective/asusctl/pull/384#issuecomment-5925940442) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-5. ℹ️ Reopened PR [#17](https://github.com/OpenGamingCollective/linux-unstable/pull/17) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
+1. 🗣 Commented on [#124](https://github.com/OpenGamingCollective/asusctl/issues/124#issuecomment-6021602988) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+2. 🗣 Commented on [#124](https://github.com/OpenGamingCollective/asusctl/issues/124#issuecomment-6014392887) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+3. ℹ️ Reopened PR [#17](https://github.com/OpenGamingCollective/linux-unstable/pull/17) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
+4. ❌ Closed PR [#17](https://github.com/OpenGamingCollective/linux-unstable/pull/17) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
+5. 🗣 Commented on [#17](https://github.com/OpenGamingCollective/linux-unstable/pull/17#issuecomment-5988647955) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
 <!--END_SECTION:activity-->
