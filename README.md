@@ -78,9 +78,9 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124](https://github.com/OpenGamingCollective/asusctl/issues/124#issuecomment-6021602988) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-2. 🗣 Commented on [#124](https://github.com/OpenGamingCollective/asusctl/issues/124#issuecomment-6014392887) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-3. ℹ️ Reopened PR [#17](https://github.com/OpenGamingCollective/linux-unstable/pull/17) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
-4. ❌ Closed PR [#17](https://github.com/OpenGamingCollective/linux-unstable/pull/17) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
-5. 🗣 Commented on [#17](https://github.com/OpenGamingCollective/linux-unstable/pull/17#issuecomment-5988647955) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
+1. 🗣 Commented on [#406](https://github.com/OpenGamingCollective/asusctl/issues/406#issuecomment-6077865527) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+2. 🗣 Commented on [#406](https://github.com/OpenGamingCollective/asusctl/issues/406#issuecomment-6075146740) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+3. 🗣 Commented on [#406](https://github.com/OpenGamingCollective/asusctl/issues/406#issuecomment-6074798124) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+4. 🗣 Commented on [#405](https://github.com/OpenGamingCollective/asusctl/pull/405#issuecomment-6074784854) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+5. 🗣 Commented on [#124](https://github.com/OpenGamingCollective/asusctl/issues/124#issuecomment-6021602988) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
 <!--END_SECTION:activity-->
