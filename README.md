@@ -78,9 +78,9 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#406](https://github.com/OpenGamingCollective/asusctl/issues/406#issuecomment-6077865527) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-2. 🗣 Commented on [#406](https://github.com/OpenGamingCollective/asusctl/issues/406#issuecomment-6075146740) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-3. 🗣 Commented on [#406](https://github.com/OpenGamingCollective/asusctl/issues/406#issuecomment-6074798124) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-4. 🗣 Commented on [#405](https://github.com/OpenGamingCollective/asusctl/pull/405#issuecomment-6074784854) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-5. 🗣 Commented on [#124](https://github.com/OpenGamingCollective/asusctl/issues/124#issuecomment-6021602988) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+1. 🎉 Merged PR [#416](https://github.com/OpenGamingCollective/asusctl/pull/416) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+2. 💪 Opened PR [#416](https://github.com/OpenGamingCollective/asusctl/pull/416) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+3. 🗣 Commented on [#406](https://github.com/OpenGamingCollective/asusctl/issues/406#issuecomment-6077865527) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+4. 🗣 Commented on [#406](https://github.com/OpenGamingCollective/asusctl/issues/406#issuecomment-6075146740) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+5. 🗣 Commented on [#406](https://github.com/OpenGamingCollective/asusctl/issues/406#issuecomment-6074798124) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
 <!--END_SECTION:activity-->
