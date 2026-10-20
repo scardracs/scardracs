@@ -78,9 +78,9 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/scardracs/asusctl/pull/4) in [scardracs/asusctl](https://github.com/scardracs/asusctl)
-2. 🗣 Commented on [#4](https://github.com/scardracs/asusctl/pull/4#issuecomment-6250430284) in [scardracs/asusctl](https://github.com/scardracs/asusctl)
-3. 💪 Opened PR [#422](https://github.com/OpenGamingCollective/asusctl/pull/422) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-4. 💪 Opened PR [#4](https://github.com/scardracs/asusctl/pull/4) in [scardracs/asusctl](https://github.com/scardracs/asusctl)
-5. 🗣 Commented on [#130](https://github.com/OpenGamingCollective/asusctl/issues/130#issuecomment-6250162250) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+1. 🗣 Commented on [#17](https://github.com/OpenGamingCollective/linux-unstable/pull/17#issuecomment-6262834405) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
+2. 💪 Opened PR [#22](https://github.com/OpenGamingCollective/linux-unstable/pull/22) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
+3. 🎉 Merged PR [#21](https://github.com/OpenGamingCollective/linux-unstable/pull/21) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
+4. 🎉 Merged PR [#20](https://github.com/OpenGamingCollective/linux-unstable/pull/20) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
+5. 💪 Opened PR [#21](https://github.com/OpenGamingCollective/linux-unstable/pull/21) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
 <!--END_SECTION:activity-->
