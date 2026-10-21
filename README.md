@@ -78,9 +78,9 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/OpenGamingCollective/linux-unstable/pull/17#issuecomment-6262834405) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
-2. 💪 Opened PR [#22](https://github.com/OpenGamingCollective/linux-unstable/pull/22) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
-3. 🎉 Merged PR [#21](https://github.com/OpenGamingCollective/linux-unstable/pull/21) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
-4. 🎉 Merged PR [#20](https://github.com/OpenGamingCollective/linux-unstable/pull/20) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
-5. 💪 Opened PR [#21](https://github.com/OpenGamingCollective/linux-unstable/pull/21) in [OpenGamingCollective/linux-unstable](https://github.com/OpenGamingCollective/linux-unstable)
+1. 🗣 Commented on [#1](https://github.com/scardracs/inkstack/issues/1#issuecomment-6287076833) in [scardracs/inkstack](https://github.com/scardracs/inkstack)
+2. 🗣 Commented on [#131](https://github.com/OpenGamingCollective/asusctl/issues/131#issuecomment-6284600091) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+3. 🗣 Commented on [#2](https://github.com/scardracs/inkstack/issues/2#issuecomment-6287169543) in [scardracs/inkstack](https://github.com/scardracs/inkstack)
+4. 🔒 Closed issue [#2](https://github.com/scardracs/inkstack/issues/2) in [scardracs/inkstack](https://github.com/scardracs/inkstack)
+5. ℹ️ Labeled issue [#2](https://github.com/scardracs/inkstack/issues/2) in [scardracs/inkstack](https://github.com/scardracs/inkstack)
 <!--END_SECTION:activity-->
