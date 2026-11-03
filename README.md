@@ -78,9 +78,9 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/Schabo/orbis-reframe/pull/25) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
-2. 🗣 Commented on [#25](https://github.com/Schabo/orbis-reframe/pull/25#issuecomment-6489762143) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
-3. 🗣 Commented on [#328](https://github.com/OpenGamingCollective/asusctl/issues/328#issuecomment-6480347277) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-4. 💪 Opened PR [#25](https://github.com/Schabo/orbis-reframe/pull/25) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
-5. 🎉 Merged PR [#23](https://github.com/Schabo/orbis-reframe/pull/23) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
+1. 💪 Opened PR [#442](https://github.com/OpenGamingCollective/asusctl/pull/442) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+2. ❌ Closed PR [#441](https://github.com/OpenGamingCollective/asusctl/pull/441) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+3. 💪 Opened PR [#441](https://github.com/OpenGamingCollective/asusctl/pull/441) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+4. 🎉 Merged PR [#25](https://github.com/Schabo/orbis-reframe/pull/25) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
+5. 🗣 Commented on [#25](https://github.com/Schabo/orbis-reframe/pull/25#issuecomment-6489762143) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
 <!--END_SECTION:activity-->
