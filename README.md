@@ -78,9 +78,9 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#433](https://github.com/OpenGamingCollective/asusctl/pull/433#issuecomment-6684868822) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-2. 💪 Opened PR [#442](https://github.com/OpenGamingCollective/asusctl/pull/442) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-3. ❌ Closed PR [#441](https://github.com/OpenGamingCollective/asusctl/pull/441) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-4. 💪 Opened PR [#441](https://github.com/OpenGamingCollective/asusctl/pull/441) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
-5. 🎉 Merged PR [#25](https://github.com/Schabo/orbis-reframe/pull/25) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
+1. 🗣 Commented on [#455](https://github.com/OpenGamingCollective/asusctl/issues/455#issuecomment-6711623479) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+2. 🗣 Commented on [#433](https://github.com/OpenGamingCollective/asusctl/pull/433#issuecomment-6684868822) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+3. 💪 Opened PR [#442](https://github.com/OpenGamingCollective/asusctl/pull/442) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+4. ❌ Closed PR [#441](https://github.com/OpenGamingCollective/asusctl/pull/441) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+5. 💪 Opened PR [#441](https://github.com/OpenGamingCollective/asusctl/pull/441) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
 <!--END_SECTION:activity-->
