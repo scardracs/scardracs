@@ -78,9 +78,9 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/Schabo/orbis-reframe/pull/30) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
-2. 🗣 Commented on [#30](https://github.com/Schabo/orbis-reframe/pull/30#issuecomment-6798717553) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
-3. 🗣 Commented on [#4](https://github.com/Schabo/orbis-reframe/issues/4#issuecomment-6797452076) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
-4. 💪 Opened PR [#30](https://github.com/Schabo/orbis-reframe/pull/30) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
-5. 🗣 Commented on [#409](https://github.com/OpenGamingCollective/asusctl/issues/409#issuecomment-6793766937) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+1. 🗣 Commented on [#263](https://github.com/OpenGamingCollective/asusctl/issues/263#issuecomment-6820923840) in [OpenGamingCollective/asusctl](https://github.com/OpenGamingCollective/asusctl)
+2. 🎉 Merged PR [#30](https://github.com/Schabo/orbis-reframe/pull/30) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
+3. 🗣 Commented on [#30](https://github.com/Schabo/orbis-reframe/pull/30#issuecomment-6798717553) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
+4. 🗣 Commented on [#4](https://github.com/Schabo/orbis-reframe/issues/4#issuecomment-6797452076) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
+5. 💪 Opened PR [#30](https://github.com/Schabo/orbis-reframe/pull/30) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
 <!--END_SECTION:activity-->
