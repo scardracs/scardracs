@@ -78,9 +78,9 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/Schabo/orbis-reframe/pull/32) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
-2. 🗣 Commented on [#32](https://github.com/Schabo/orbis-reframe/pull/32#issuecomment-6856339276) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
-3. 💪 Opened PR [#256](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/pull/256) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
-4. 🗣 Commented on [#32](https://github.com/Schabo/orbis-reframe/pull/32#issuecomment-6854786063) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
-5. ❌ Closed PR [#1](https://github.com/scardracs/orbis-reframe/pull/1) in [scardracs/orbis-reframe](https://github.com/scardracs/orbis-reframe)
+1. 🗣 Commented on [#256](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/pull/256#issuecomment-6875324702) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
+2. 🎉 Merged PR [#32](https://github.com/Schabo/orbis-reframe/pull/32) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
+3. 🗣 Commented on [#32](https://github.com/Schabo/orbis-reframe/pull/32#issuecomment-6856339276) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
+4. 💪 Opened PR [#256](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/pull/256) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
+5. 🗣 Commented on [#32](https://github.com/Schabo/orbis-reframe/pull/32#issuecomment-6854786063) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
 <!--END_SECTION:activity-->
