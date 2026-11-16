@@ -78,9 +78,9 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#256](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/pull/256#issuecomment-6875324702) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
-2. 🎉 Merged PR [#32](https://github.com/Schabo/orbis-reframe/pull/32) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
-3. 🗣 Commented on [#32](https://github.com/Schabo/orbis-reframe/pull/32#issuecomment-6856339276) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
-4. 💪 Opened PR [#256](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/pull/256) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
-5. 🗣 Commented on [#32](https://github.com/Schabo/orbis-reframe/pull/32#issuecomment-6854786063) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
+1. 🎉 Merged PR [#257](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/pull/257) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
+2. 🎉 Merged PR [#259](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/pull/259) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
+3. 🎉 Merged PR [#261](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/pull/261) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
+4. 🎉 Merged PR [#263](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/pull/263) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
+5. 🗣 Commented on [#266](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/pull/266#issuecomment-6897655853) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
 <!--END_SECTION:activity-->
