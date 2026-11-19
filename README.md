@@ -78,9 +78,9 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#264](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/pull/264#issuecomment-6909352420) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
-2. 🎉 Merged PR [#257](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/pull/257) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
-3. 🎉 Merged PR [#259](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/pull/259) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
-4. 🎉 Merged PR [#261](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/pull/261) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
-5. 🎉 Merged PR [#263](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/pull/263) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
+1. 🚀 Published release [v1.2.0](https://github.com/scardracs/health-connect-sync/releases/tag/v1.2.0) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
+2. 🚀 Published release [Salute Sync v1.1.0](https://github.com/scardracs/health-connect-sync/releases/tag/v1.1.0) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
+3. 🚀 Published release [Salute Sync v1.0.0](https://github.com/scardracs/health-connect-sync/releases/tag/v1.0.0) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
+4. 🗣 Commented on [#264](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/pull/264#issuecomment-6909352420) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
+5. 🎉 Merged PR [#257](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/pull/257) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
 <!--END_SECTION:activity-->
