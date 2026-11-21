@@ -78,9 +78,9 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.0](https://github.com/scardracs/health-connect-sync/releases/tag/v1.2.0) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
-2. 🚀 Published release [Salute Sync v1.1.0](https://github.com/scardracs/health-connect-sync/releases/tag/v1.1.0) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
-3. 🚀 Published release [Salute Sync v1.0.0](https://github.com/scardracs/health-connect-sync/releases/tag/v1.0.0) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
-4. 🗣 Commented on [#264](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/pull/264#issuecomment-6909352420) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
-5. 🎉 Merged PR [#257](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/pull/257) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
+1. 🚀 Published release [Salute Sync 1.3.2](https://github.com/scardracs/health-connect-sync/releases/tag/v1.3.2) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
+2. 🚀 Published release [Salute Sync v1.3.1](https://github.com/scardracs/health-connect-sync/releases/tag/v1.3.1) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
+3. 🚀 Published release [Salute Sync v1.3.0](https://github.com/scardracs/health-connect-sync/releases/tag/v1.3.0) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
+4. 🚀 Published release [v1.2.0](https://github.com/scardracs/health-connect-sync/releases/tag/v1.2.0) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
+5. 🚀 Published release [Salute Sync v1.1.0](https://github.com/scardracs/health-connect-sync/releases/tag/v1.1.0) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
 <!--END_SECTION:activity-->
