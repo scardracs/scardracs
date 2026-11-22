@@ -78,9 +78,9 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Salute Sync 1.3.2](https://github.com/scardracs/health-connect-sync/releases/tag/v1.3.2) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
-2. 🚀 Published release [Salute Sync v1.3.1](https://github.com/scardracs/health-connect-sync/releases/tag/v1.3.1) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
-3. 🚀 Published release [Salute Sync v1.3.0](https://github.com/scardracs/health-connect-sync/releases/tag/v1.3.0) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
-4. 🚀 Published release [v1.2.0](https://github.com/scardracs/health-connect-sync/releases/tag/v1.2.0) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
-5. 🚀 Published release [Salute Sync v1.1.0](https://github.com/scardracs/health-connect-sync/releases/tag/v1.1.0) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
+1. 🚀 Published release [Salute Sync 1.4.0](https://github.com/scardracs/health-connect-sync/releases/tag/v1.4.0) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
+2. 🚀 Published release [Salute Sync 1.3.3](https://github.com/scardracs/health-connect-sync/releases/tag/v1.3.3) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
+3. 🚀 Published release [Salute Sync 1.3.2](https://github.com/scardracs/health-connect-sync/releases/tag/v1.3.2) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
+4. 🚀 Published release [Salute Sync v1.3.1](https://github.com/scardracs/health-connect-sync/releases/tag/v1.3.1) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
+5. 🚀 Published release [Salute Sync v1.3.0](https://github.com/scardracs/health-connect-sync/releases/tag/v1.3.0) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
 <!--END_SECTION:activity-->
