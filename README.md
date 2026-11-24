@@ -78,9 +78,9 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1581](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/1581) in [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules)
-2. 🚀 Published release [Salute Sync 1.4.0](https://github.com/scardracs/health-connect-sync/releases/tag/v1.4.0) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
-3. 🚀 Published release [Salute Sync 1.3.3](https://github.com/scardracs/health-connect-sync/releases/tag/v1.3.3) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
-4. 🚀 Published release [Salute Sync 1.3.2](https://github.com/scardracs/health-connect-sync/releases/tag/v1.3.2) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
-5. 🚀 Published release [Salute Sync v1.3.1](https://github.com/scardracs/health-connect-sync/releases/tag/v1.3.1) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
+1. 🗣 Commented on [#46](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/issues/46#issuecomment-7106886181) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
+2. 🗣 Commented on [#272](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/issues/272#issuecomment-7106765202) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
+3. 🗣 Commented on [#267](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/issues/267#issuecomment-7106800306) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
+4. ❗ Opened issue [#1581](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/1581) in [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules)
+5. 🚀 Published release [Salute Sync 1.4.0](https://github.com/scardracs/health-connect-sync/releases/tag/v1.4.0) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
 <!--END_SECTION:activity-->
