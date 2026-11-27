@@ -78,9 +78,9 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Salute Sync 2.0.0](https://github.com/scardracs/health-connect-sync/releases/tag/v2.0.0) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
-2. 🗣 Commented on [#46](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/issues/46#issuecomment-7106886181) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
-3. 🗣 Commented on [#272](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/issues/272#issuecomment-7106765202) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
-4. 🗣 Commented on [#267](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/issues/267#issuecomment-7106800306) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
-5. ❗ Opened issue [#1581](https://github.com/NVIDIA/open-gpu-kernel-modules/issues/1581) in [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules)
+1. 🗣 Commented on [#13893](https://github.com/ValveSoftware/steam-for-linux/issues/13893#issuecomment-7191685055) in [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux)
+2. 🚀 Published release [Salute Sync 2.0.0](https://github.com/scardracs/health-connect-sync/releases/tag/v2.0.0) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
+3. 🗣 Commented on [#46](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/issues/46#issuecomment-7106886181) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
+4. 🗣 Commented on [#272](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/issues/272#issuecomment-7106765202) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
+5. 🗣 Commented on [#267](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/issues/267#issuecomment-7106800306) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
 <!--END_SECTION:activity-->
