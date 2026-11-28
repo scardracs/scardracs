@@ -78,9 +78,9 @@ Class '95, Italian Linux enthusiast focusing on **kernel development**, **hardwa
 
 ### 🔭 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13893](https://github.com/ValveSoftware/steam-for-linux/issues/13893#issuecomment-7191685055) in [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux)
-2. 🚀 Published release [Salute Sync 2.0.0](https://github.com/scardracs/health-connect-sync/releases/tag/v2.0.0) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
-3. 🗣 Commented on [#46](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/issues/46#issuecomment-7106886181) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
-4. 🗣 Commented on [#272](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/issues/272#issuecomment-7106765202) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
-5. 🗣 Commented on [#267](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo/issues/267#issuecomment-7106800306) in [Kotatsu-Redo/kotatsu-parsers-redo](https://github.com/Kotatsu-Redo/kotatsu-parsers-redo)
+1. ❌ Closed PR [#50](https://github.com/Schabo/orbis-reframe/pull/50) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
+2. 🗣 Commented on [#50](https://github.com/Schabo/orbis-reframe/pull/50#issuecomment-7215971960) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
+3. 💪 Opened PR [#50](https://github.com/Schabo/orbis-reframe/pull/50) in [Schabo/orbis-reframe](https://github.com/Schabo/orbis-reframe)
+4. 🗣 Commented on [#13893](https://github.com/ValveSoftware/steam-for-linux/issues/13893#issuecomment-7191685055) in [ValveSoftware/steam-for-linux](https://github.com/ValveSoftware/steam-for-linux)
+5. 🚀 Published release [Salute Sync 2.0.0](https://github.com/scardracs/health-connect-sync/releases/tag/v2.0.0) in [scardracs/health-connect-sync](https://github.com/scardracs/health-connect-sync)
 <!--END_SECTION:activity-->
